@@ -1,2 +1,2 @@
 # alert-renderer
-Render beautiful alert blocks with the editor-js's alert plugin.
+![Version of EditorJS that the plugin is compatible with](https://badgen.net/badge/Editor.js/v2.0/blue)
