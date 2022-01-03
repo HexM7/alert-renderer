@@ -8,7 +8,6 @@ const AlertOutput = (
   },
 ) => {
   if (!data || !data.type || !data.message) return null;
-
   return <div className={clsx(styles.alert, styles[data.type])}>{data.message}</div>;
 };
 
