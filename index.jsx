@@ -1,6 +1,6 @@
 import React from 'react';
 import clsx from 'clsx';
-import styles from './Alert.module.css';
+import styles from './styles.css';
 
 const AlertOutput = (
   {
